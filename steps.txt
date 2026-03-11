@@ -1,0 +1,6 @@
+#steps followed to push your project to github
+initialize: git init
+add all files: git add .
+commit: git commit -m "commit message"
+create repo in github,copy the SSH KEY
+then push: git push- u origin main
